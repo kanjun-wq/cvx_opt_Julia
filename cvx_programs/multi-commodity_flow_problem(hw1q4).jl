@@ -56,3 +56,4 @@ objective_value(LP_model)
 value.(f)
 println(objective_value(LP_model))
 println(value.(f))
+# 本文档由王院、杜院指导编写，特此感谢！
